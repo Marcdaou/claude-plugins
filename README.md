@@ -1,4 +1,4 @@
-# marcdaou-plugins
+# claude-plugins
 
 A Claude Code plugin marketplace.
 
@@ -8,6 +8,6 @@ A Claude Code plugin marketplace.
 
 | Plugin | Description | Install |
 |---|---|---|
-| [sdlc-loop](plugins/sdlc-loop) | The AI-native SDLC playbook as agents + skills: Jira → intent → Figma + spec → plan → PR → tests → Vercel preview → maintain, with human approval gates. | `/plugin install sdlc-loop@marcdaou-plugins` |
+| [sdlc-loop](plugins/sdlc-loop) | The AI-native SDLC playbook as agents + skills: Jira → intent → Figma + spec → plan → PR → tests → Vercel preview → maintain, with human approval gates. | `/plugin install sdlc-loop@marcdaou-claude-plugins` |
 
-Update later with `/plugin marketplace update marcdaou-plugins`.
+Update later with `/plugin marketplace update marcdaou-claude-plugins`.

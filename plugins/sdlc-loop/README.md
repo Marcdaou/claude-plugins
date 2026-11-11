@@ -33,7 +33,7 @@ Agents stop at a Vercel preview. A `PreToolUse` hook blocks pushes to `main`/`ma
 ## Quick start
 ```
 /plugin marketplace add Marcdaou/claude-plugins
-/plugin install sdlc-loop@marcdaou-plugins
+/plugin install sdlc-loop@marcdaou-claude-plugins
 ```
 Restart Claude Code, open your repo, then:
 ```

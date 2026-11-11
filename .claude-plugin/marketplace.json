@@ -1,5 +1,5 @@
 {
-  "name": "marcdaou-plugins",
+  "name": "marcdaou-claude-plugins",
   "owner": { "name": "Marcdaou", "url": "https://github.com/Marcdaou" },
   "metadata": { "description": "Claude Code plugins by Marcdaou, starting with sdlc-loop: the AI-native SDLC playbook as agents and skills." },
   "plugins": [
