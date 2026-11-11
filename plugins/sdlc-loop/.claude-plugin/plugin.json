@@ -1,0 +1,10 @@
+{
+  "name": "sdlc-loop",
+  "version": "1.0.0",
+  "description": "The AI-native SDLC playbook as a plugin: one agent per stage (plan, design, build, test, deploy, maintain) wired to Jira, Figma, GitHub, Vercel and Supabase, with human approval gates and a production-gate hook.",
+  "author": { "name": "Marcdaou", "url": "https://github.com/Marcdaou" },
+  "homepage": "https://github.com/Marcdaou/claude-plugins/tree/main/plugins/sdlc-loop",
+  "repository": "https://github.com/Marcdaou/claude-plugins",
+  "license": "MIT",
+  "keywords": ["sdlc", "jira", "figma", "vercel", "supabase", "workflow", "agents"]
+}
